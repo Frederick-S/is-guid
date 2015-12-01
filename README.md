@@ -3,7 +3,7 @@ Check if string is guid.
 
 ## Installation
 ```
-$ [sudo] npm install is-guid --save
+$ npm install is-guid --save
 ```
 
 ## Usage
