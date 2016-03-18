@@ -17,7 +17,8 @@
     "url": "https://github.com/Frederick-S/is-guid/issues"
   },
   "homepage": "https://github.com/Frederick-S/is-guid#readme",
-  "dependencies": {
+  "devDependencies": {
+    "aguid": "^1.0.4",
     "codecov.io": "^0.1.6",
     "istanbul": "^0.4.1",
     "mocha": "^2.3.4"
