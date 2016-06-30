@@ -8,7 +8,7 @@ $ npm install is-guid --save
 
 ## Usage
 ```js
-import { isGuid } from 'is-guid'; 
+import { isGuid } from 'is-guid'; // Or var isGuid = require('is-guid').isGuid;
 
 console.log(isGuid('d3aa88e2-c754-41e0-8ba6-4198a34aa0a2'));
 ```
