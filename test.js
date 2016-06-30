@@ -1,6 +1,6 @@
 var assert = require('assert');
-var isGuid = require('./index');
 var aguid = require('aguid');
+var isGuid = require('./index').isGuid;
 
 describe('Test string object type', function () {
     it('This is not a string', function () {
