@@ -1,4 +1,6 @@
 # is-guid [![Circle CI](https://circleci.com/gh/Frederick-S/is-guid.svg?style=svg)](https://circleci.com/gh/Frederick-S/is-guid) [![codecov.io](https://codecov.io/github/Frederick-S/is-guid/coverage.svg?branch=master)](https://codecov.io/github/Frederick-S/is-guid?branch=master)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/is-guid.svg)](https://greenkeeper.io/)
 Check if string is guid.
 
 ## Installation
